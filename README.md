@@ -1,2 +1,2 @@
-# my-new-tab
+# My new tab
 A new tab screen totally customizable.
